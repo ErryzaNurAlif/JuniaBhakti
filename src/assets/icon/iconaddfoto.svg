@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="iconaddfoto" transform="translate(-257 -249)">
+    <circle id="Ellipse_43" data-name="Ellipse 43" cx="15" cy="15" r="15" transform="translate(257 249)" fill="#fff"/>
+    <path id="Icon_awesome-plus-circle" data-name="Icon awesome-plus-circle" d="M10.563.562a10,10,0,1,0,10,10A10,10,0,0,0,10.563.562Zm5.806,11.129a.485.485,0,0,1-.484.484h-3.71v3.71a.485.485,0,0,1-.484.484H9.433a.485.485,0,0,1-.484-.484v-3.71H5.24a.485.485,0,0,1-.484-.484V9.433A.485.485,0,0,1,5.24,8.95H8.95V5.24a.485.485,0,0,1,.484-.484h2.258a.485.485,0,0,1,.484.484V8.95h3.71a.485.485,0,0,1,.484.484Z" transform="translate(261.438 253.438)" fill="#020e8a"/>
+  </g>
+</svg>

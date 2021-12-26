@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="iconremovefoto" transform="translate(-250 -237)">
+    <circle id="Ellipse_43" data-name="Ellipse 43" cx="15" cy="15" r="15" transform="translate(250 237)" fill="#fff"/>
+    <path id="Icon_ionic-ios-close-circle" data-name="Icon ionic-ios-close-circle" d="M13.375,3.375a10,10,0,1,0,10,10A10,10,0,0,0,13.375,3.375ZM15.909,17l-2.534-2.534L10.841,17a.768.768,0,1,1-1.087-1.087l2.534-2.534L9.755,10.841a.768.768,0,0,1,1.087-1.087l2.534,2.534,2.534-2.534A.768.768,0,1,1,17,10.841l-2.534,2.534L17,15.909A.772.772,0,0,1,17,17,.763.763,0,0,1,15.909,17Z" transform="translate(251.625 238.625)" fill="#e06379"/>
+  </g>
+</svg>

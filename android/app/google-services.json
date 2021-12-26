@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152360811416",
+    "project_id": "klinikjuniabhakti-1a178",
+    "storage_bucket": "klinikjuniabhakti-1a178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152360811416:android:d543163bdbe31c780389ed",
+        "android_client_info": {
+          "package_name": "com.juniabhakti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152360811416-n0vc78gdhahu3b4ab0crtmai23376ll5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juniabhakti",
+            "certificate_hash": "c6dd1f08f579225ca07680b0a42a605a9393e8da"
+          }
+        },
+        {
+          "client_id": "152360811416-1pmqada8fdp3kricoqi1c3qunuoagnaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoB-DDCJ5lg9LmQEboILNS4pqMGMdMZQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152360811416-1pmqada8fdp3kricoqi1c3qunuoagnaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

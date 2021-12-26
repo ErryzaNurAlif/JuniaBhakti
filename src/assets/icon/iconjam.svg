@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="iconjam" transform="translate(1556 606)">
+    <g id="Rectangle_697" data-name="Rectangle 697" transform="translate(-1556 -606)" fill="#f7f8fa" stroke="#f7f8fa" stroke-width="1">
+      <rect width="30" height="30" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" rx="4.5" fill="none"/>
+    </g>
+    <g id="Icon_feather-clock" data-name="Icon feather-clock" transform="translate(-1551 -601)">
+      <path id="Path_613" data-name="Path 613" d="M23,13A10,10,0,1,1,13,3,10,10,0,0,1,23,13Z" transform="translate(-3 -3)" fill="none" stroke="#020e8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_614" data-name="Path 614" d="M18,9V21.077L25.019,25.1" transform="translate(-8 -7.988)" fill="none" stroke="#020e8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

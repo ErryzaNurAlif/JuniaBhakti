@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="35" viewBox="0 0 40 35">
+  <g id="icontanggal" transform="translate(1511 688)">
+    <g id="Rectangle_693" data-name="Rectangle 693" transform="translate(-1511 -688)" fill="#f7f8fa" stroke="#f7f8fa" stroke-width="1">
+      <rect width="40" height="35" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="34" rx="4.5" fill="none"/>
+    </g>
+    <path id="Icon_material-date-range" data-name="Icon material-date-range" d="M12.833,14.25H10.056v2.5h2.778Zm5.556,0H15.611v2.5h2.778Zm5.556,0H21.167v2.5h2.778ZM26.722,5.5H25.333V3H22.556V5.5H11.444V3H8.667V5.5H7.278A2.636,2.636,0,0,0,4.514,8L4.5,25.5A2.649,2.649,0,0,0,7.278,28H26.722A2.658,2.658,0,0,0,29.5,25.5V8A2.658,2.658,0,0,0,26.722,5.5Zm0,20H7.278V11.75H26.722Z" transform="translate(-1507.5 -686)" fill="#020e8a"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="iconceklis" transform="translate(-285 -144)">
+    <g id="Rectangle_693" data-name="Rectangle 693" transform="translate(285 144)" fill="#f7f8fa" stroke="#f7f8fa" stroke-width="1">
+      <rect width="35" height="35" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="34" height="34" rx="4.5" fill="none"/>
+    </g>
+    <path id="iconceklis-2" data-name="iconceklis" d="M6.793,24.184l-6.5-8.717a1.681,1.681,0,0,1,0-1.9l1.414-1.9a.833.833,0,0,1,1.414,0L7.5,17.547,16.879,4.97a.833.833,0,0,1,1.414,0l1.414,1.9a1.681,1.681,0,0,1,0,1.9L8.207,24.184A.833.833,0,0,1,6.793,24.184Z" transform="translate(293 147.423)" fill="#020e8a"/>
+  </g>
+</svg>
